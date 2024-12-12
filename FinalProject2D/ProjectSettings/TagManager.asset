@@ -3,7 +3,18 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Enemy
+  - Floor
+  - Bat
+  - Mini Boss damage
+  - Mini Boss
+  - Final Boss
+  - Final Boss damage
+  - Start battle
+  - HitBox
+  - Acid
+  - Traps
   layers:
   - Default
   - TransparentFX
@@ -11,7 +22,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - 'Blocks '
   - 
   - 
   - 
